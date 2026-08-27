@@ -1,0 +1,210 @@
+[1] BUSINESS
+[2] Chapter 1: People in Business
+[3] Main topics:
+[4] Introduction to the business world: what a business is, why it exists, and what needs it satisfies.
+[5] Stakeholders: owners, employees, customers, suppliers, government, and the local community.
+[6] Conflicts of interest: between different stakeholders, for example profit vs wages or growth vs the environment.
+[7] Conflict resolution: negotiation, legal methods, and non-legal methods.
+[8] Employment contracts: the rights and responsibilities of employers and employees.
+[9] Trade unions: the role of trade unions and employer/business associations.
+[10] Key concepts:
+[11] Stakeholders have different interests that can sometimes conflict.
+[12] Conflicts can be resolved through negotiation, mediation, or legal action.
+[13] Contracts define employment relationships and protect both parties.
+[14] Chapter 8: Management Activities – Motivating & Communicating
+[15] Main topics:
+[16] Motivation theories:
+[17] Maslow: Hierarchy of Needs
+[18] Herzberg: Hygiene Factors and Motivators
+[19] Taylor: Scientific Management
+[20] Mayo: Human Relations
+[21] Leadership styles: autocratic, democratic, laissez-faire, and situational.
+[22] Business communication: internal/external, formal/informal, verbal/non-verbal.
+[23] Barriers to communication: noise, technical language, prejudice, and inappropriate communication channels.
+[24] ICT technologies: email, video conferencing, intranet, and business social media.
+[25] Change management: resistance to change and strategies for managing change.
+[26] Key concepts:
+[27] Motivated employees are generally more productive and loyal to the business.
+[28] Effective communication can prevent mistakes and conflicts.
+[29] Leadership should adapt to the situation and the team.
+[30] Chapter 12: Marketing – Market Research
+[31] Main topics:
+[32] What is marketing: identifying and satisfying customer needs profitably.
+[33] Primary market research (field research):
+[34] Questionnaires
+[35] Interviews
+[36] Focus groups
+[37] Observation
+[38] Advantages: specific and up-to-date information.
+[39] Disadvantages: expensive and time-consuming.
+[40] Secondary market research (desk research):
+[41] Existing information such as CSO data, industry reports, and competitor information.
+[42] Advantages: cheaper and faster.
+[43] Disadvantages: information may be outdated or not specific enough.
+[44] Sampling: random, stratified, and convenience sampling.
+[45] Data analysis: qualitative and quantitative data.
+[46] Research ethics: privacy, informed consent, and responsible use of data.
+[47] Key concepts:
+[48] Market research reduces the risk of launching products that customers do not want.
+[49] Combining primary and secondary research provides a more complete picture of the market.
+[50] Data should be reliable, representative, and up to date.
+[51] Chapter 6: Domestic Environment – Business & the Economy
+[52] Main topics:
+[53] Economic sectors:
+[54] Primary: agriculture and fishing.
+[55] Secondary: manufacturing and industry.
+[56] Tertiary: services.
+[57] Quaternary: ICT and research and development.
+[58] Types of businesses: sole traders, partnerships, private limited companies, public limited companies, cooperatives, and social enterprises.
+[59] Impact of the economy on business: inflation, interest rates, taxation, unemployment, and economic growth.
+[60] Impact of business on the economy: job creation, tax revenue, exports, and regional development.
+[61] Government policies: taxation, public spending, regulation, and business incentives.
+[62] Corporate Social Responsibility (CSR): ethics, environmental sustainability, and community impact.
+[63] Key concepts:
+[64] Businesses operate within a wider economic environment that influences their decisions.
+[65] Businesses have responsibilities towards society as well as the goal of making profit.
+[66] Government economic policies can support or restrict business activity.
+[67] Chapter 10: Finance – Sources of Finance
+[68] Main topics:
+[69] Financial requirements: start-up capital, working capital, and investment for growth.
+[70] Internal sources:
+[71] Retained earnings
+[72] Sale of assets
+[73] Reducing stock or outstanding debts
+[74] Short-term external sources:
+[75] Bank overdraft
+[76] Trade credit
+[77] Factoring
+[78] Long-term external sources:
+[79] Ordinary shares
+[80] Loan capital and debentures
+[81] Bank loans and mortgages
+[82] Venture capital and angel investors
+[83] Crowdfunding
+[84] Government finance: grants, subsidised loans, Enterprise Ireland, and Local Enterprise Offices.
+[85] Costs and risks: interest payments, loss of ownership, and guarantees/security requirements.
+[86] Key concepts:
+[87] The choice of finance depends on cost, risk, duration, and control.
+[88] Start-ups may have limited access to traditional sources of finance.
+[89] A balanced combination of debt and equity can reduce financial risk.
+[90] Chapter 11: Finance – Cash Flow & Budgeting
+[91] Main topics:
+[92] Cash flow vs profit: the difference between liquidity and profitability.
+[93] Cash flow forecast: forecasts of monthly cash inflows and outflows.
+[94] Causes of cash-flow problems:
+[95] Bad debts
+[96] Excess stock
+[97] Investment in fixed assets
+[98] Seasonal demand
+[99] Strategies to improve cash flow:
+[100] Collecting payments faster
+[101] Offering discounts for early payment
+[102] Delaying payments to suppliers
+[103] Reducing stock levels
+[104] Leasing instead of purchasing assets
+[105] Budgets: financial plans for a future period.
+[106] Types of budgets: sales, production, cash, and investment budgets.
+[107] Monitoring: comparing budgeted figures with actual results and carrying out variance analysis.
+[108] Key concepts:
+[109] A business can be profitable but still fail because it does not have enough cash.
+[110] A cash-flow forecast can help prevent cash shortages.
+[111] Budgets help businesses plan and control their performance.
+[112] Chapter 9: Monitoring the Business – Financial Information
+[113] Main topics:
+[114] Financial accounting vs management accounting.
+[115] Main financial statements:
+[116] Profit and Loss Account
+[117] Balance Sheet
+[118] Cash Flow Statement
+[119] Financial ratio analysis:
+[120] Liquidity: Current Ratio and Quick Ratio.
+[121] Profitability: Gross Profit Margin, Net Profit Margin, and ROCE.
+[122] Efficiency: Stock Turnover, Debtor Days, and Creditor Days.
+[123] Solvency: Debt-to-Equity Ratio.
+[124] Interpreting results: understanding what ratios tell us about the financial health of a business.
+[125] Limitations of financial analysis: historical data, differences between industries, and qualitative factors.
+[126] Key concepts:
+[127] Financial statements show the past performance and financial position of a business.
+[128] Ratios allow businesses to compare performance over time and with competitors.
+[129] Financial analysis helps investors, managers, and creditors make decisions.
+[130] Chapter 7: Management Activities – Planning & Organising
+[131] Main topics:
+[132] Management functions: Planning, Organising, Directing, and Controlling (PODC).
+[133] Strategic planning: mission, vision, long-term objectives, and SWOT analysis.
+[134] Operational planning: short-term objectives, budgets, and action plans.
+[135] Organisation: organisational structure, division of labour, delegation, and chain of command.
+[136] Types of organisational structures: functional, divisional, matrix, flat, and hierarchical.
+[137] Decision-making: rational, intuitive, and participative decision-making.
+[138] Key concepts:
+[139] Planning determines where the business wants to go and how it will get there.
+[140] Organising distributes resources and responsibilities to put plans into action.
+[141] A good organisational structure improves efficiency and communication.
+[142] Chapter 13: Marketing – Marketing Mix (4 Ps)
+[143] Main topics:
+[144] Product:
+[145] Product life cycle: introduction, growth, maturity, and decline.
+[146] Differentiation, branding, packaging, and product range.
+[147] Price:
+[148] Penetration pricing
+[149] Price skimming
+[150] Competitive pricing
+[151] Psychological pricing
+[152] Factors affecting price: costs, demand, and competition.
+[153] Place:
+[154] Direct and indirect distribution channels.
+[155] Retail, e-commerce, and wholesale.
+[156] Logistics and supply chain.
+[157] Promotion:
+[158] Advertising
+[159] Public relations
+[160] Sales promotion
+[161] Personal selling
+[162] Direct marketing
+[163] Digital marketing, including social media, SEO, and email marketing.
+[164] Promotional budget and ROI.
+[165] Extended marketing mix for services: People, Process, and Physical Evidence.
+[166] Key concepts:
+[167] The 4 Ps must work together and match the target market.
+[168] Positioning determines how a product is perceived in the customer's mind.
+[169] The marketing mix should be adapted to the product life cycle and the market.
+[170] Chapter 14: International Environment – EU & Global Trade
+[171] Main topics:
+[172] International trade: why countries trade, including the concept of comparative advantage.
+[173] Trade barriers: tariffs, quotas, regulatory standards, and subsidies.
+[174] International organisations: WTO, IMF, and World Bank.
+[175] European Union:
+[176] History and institutions, including the Commission, Parliament, and Council.
+[177] Single Market and the free movement of goods, services, capital, and people.
+[178] Eurozone and monetary policy through the ECB.
+[179] Common policies such as the Common Agricultural Policy, regional development, and trade.
+[180] Impact on Ireland: access to the Single Market, foreign investment, and exports.
+[181] Brexit: consequences for Ireland and the UK.
+[182] Globalisation: opportunities and challenges for businesses.
+[183] Key concepts:
+[184] The EU gives Irish businesses access to a market of around 450 million consumers.
+[185] International trade allows businesses to expand into new markets but also increases competition.
+[186] Businesses must adapt to different laws, regulations, and cultures.
+[187] Chapter 15: International Business – Multinationals & Strategy
+[188] Main topics:
+[189] Multinational companies (MNCs): businesses that operate in more than one country, such as Apple, Google, and Pfizer.
+[190] Reasons for internationalisation:
+[191] Access to new markets
+[192] Lower production costs
+[193] Diversification of risk
+[194] Access to technology and skills
+[195] Methods of entering foreign markets:
+[196] Exporting
+[197] Licensing and franchising
+[198] Joint ventures
+[199] Subsidiaries
+[200] Acquisitions
+[201] Impact on local economies:
+[202] Positive: job creation, investment, and transfer of knowledge.
+[203] Negative: increased competition for local businesses, dependence on multinational companies, and relocation of production.
+[204] Global vs local strategies: standardisation vs adaptation.
+[205] Challenges: cultural, legal, currency, and logistical differences.
+[206] International CSR: ethical standards, decent working conditions, and environmental responsibility.
+[207] Key concepts:
+[208] Multinational companies can have significant economic power.
+[209] Internationalisation requires careful analysis of risks and opportunities.
+[210] Global success requires a balance between efficiency and adapting to local markets.

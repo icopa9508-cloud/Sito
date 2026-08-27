@@ -1,0 +1,174 @@
+[1] RIASSUNTI PER PRESENTAZIONE
+[2] Storia • Letteratura • Stampa • Progettazione Multimediale • Linguaggio Audiovisivo • Matematica • Inglese
+[3] Documento unico con tutti i riassunti strutturati per materia e argomento.
+[4] STORIA
+[5] 1. I moti rivoluzionari del 1848
+[6] Ondata rivoluzionaria europea del 1848. Cause: tensioni sociali, nazionalismo, liberalismo, crisi economica. Partecipazione di borghesia, operai, intellettuali.
+[7] Francia: fine monarchia, II Repubblica, poi Napoleone III
+[8] Austria: richieste di autonomia delle nazionalità¹¹, represse ma fine servitÙ¹ della gleba
+[9] Germania: unificazione e costituzione liberale, fallimento
+[10] Italia: indipendenza dall'Austria, costituzioni concesse poi revocate
+[11] 2. Le 5 giornate di Milano e la diplomazia di Cavour
+[12] 5 Giornate di Milano (18-22 marzo 1848): insurrezione popolare contro occupazione austriaca. Leader: Cattaneo, Manara. Radetzky si ritira temporaneamente.
+[13] Cavour: modernizza il Piemonte, cerca alleanze, Guerra di Crimea (1855), Accordi di PlombiÈ¹res (1858) con Napoleone III.
+[14] 3. Il Risorgimento e la Spedizione dei Mille
+[15] Risorgimento (1815-1871): unificazione italiana. Correnti: democratica (Mazzini, Garibaldi), moderata (Cavour), neoguelfa (Gioberti).
+[16] Spedizione dei Mille (1860): partenza da Quarto (5 maggio), sbarco a Marsala (11 maggio), battaglie in Sicilia, risalita verso Napoli, incontro a Teano con Vittorio Emanuele II.
+[17] 4. Le guerre d'indipendenza italiana
+[18] Guerra
+[19] Anno
+[20] Alleati
+[21] Risultati
+[22] Conseguenze
+[23] Prima
+[24] 1848-49
+[25] Regno di Sardegna
+[26] Sconfitta
+[27] Carlo Alberto abdica
+[28] Seconda
+[29] 1859
+[30] Francia + Piemonte
+[31] Vittoria
+[32] Lombardia al Piemonte
+[33] Terza
+[34] 1866
+[35] Prussia + Italia
+[36] Vittoria diplomatica
+[37] Veneto all'Italia
+[38] Presa di Roma
+[39] 1870
+[40] -
+[41] Vittoria
+[42] Roma capitale
+[43] 5. Le grandi ideologie dell'800
+[44] Liberalismo: libertà individuale, proprietà, stato limitato (Locke, Smith, Mill)
+[45] Nazionalismo: nazione come comunità, autodeterminazione
+[46] Socialismo: proprietà collettiva, uguaglianza (Marx, Engels)
+[47] Conservatorismo: tradizione, ordine, autorità (Burke, Metternich)
+[48] Democrazia: sovranità¹¹ popolare, suffragio
+[49] Anarchismo: abolizione stato, libertà assoluta (Bakunin)
+[50] LETTERATURA ITALIANA
+[51] 1. L'illuminismo italiano e "Il Caffè¹¹"
+[52] Seconda metà '700, centro Milano. "Il Caffè¹¹" (1764-66): fondatori Verri e Beccaria. Obiettivi: diffondere idee illuministe, riforme giustizia, abolizione tortura.
+[53] 2. Ugo Foscolo: passioni e "Dei Sepolcri"
+[54] Vita (1778-1827): nato a Zante, esule, muore a Londra. Temi: patriottismo, passioni, illusioni, morte e memoria. "Dei Sepolcri" (1807): le tombe mantengono vivo il legame tra vivi e morti.
+[55] 3. Alessandro Manzoni e la provvidenza
+[56] Vita (1785-1873): Milano, conversione (1810), senatore. Provvidenza: Dio guida la storia verso il bene. Nei Promessi Sposi: fede, giustizia divina, conversione dell'Innominato.
+[57] 4. Neoclassicismo e Romanticismo
+[58] Aspetto
+[59] Neoclassicismo
+[60] Romanticismo
+[61] Ragione/Sentimento
+[62] Ragione
+[63] Sentimento
+[64] Bellezza
+[65] Ideale
+[66] Sublime
+[67] Natura
+[68] Ordinata
+[69] Selvaggia
+[70] Eroe
+[71] Virtuoso
+[72] Tormentato
+[73] 5. Giacomo Leopardi e la poetica del pessimismo
+[74] Pessimismo individuale: sofferenza personale
+[75] Pessimismo storico: antichi felici, moderni infelici
+[76] Pessimismo cosmico: natura matrigna per tutti, universo indifferente
+[77] STAMPA: TECNOLOGIA DEI PROCESSI
+[78] 1. Principi e meccanica della stampa offset
+[79] Tecnica planografica indiretta. Principio: repulsione acqua-olio. Componenti: lastra, bagnatura, inchiostro, gommino, cilindro.
+[80] 2. Materiali polimerici
+[81] PE: flessibile, sacchetti
+[82] PP: resistente al calore, confezioni
+[83] PET: trasparente, bottiglie
+[84] PVC: rigido/flessibile
+[85] PS: rigido, vaschette
+[86] 3. Impianti di stampa flessografia
+[87] Stampa rotativa a rilievo su supporti flessibili. Componenti: svolgitore, anilox, lastra, essiccatoio, riavvolgitore.
+[88] 4. Stampa digitale e sistemi CTP
+[89] Digitale: nessuna lastra, file diretto. CTP: computer-to-plate, elimina film, maggiore qualità e velocità.
+[90] 5. Cartotecnica, fustellatura e packaging
+[91] Cartotecnica: scatole, astucci. Fustellatura: taglio e cissura con fustella. Packaging: primario, secondario, terziario.
+[92] PROGETTAZIONE MULTIMEDIALE
+[93] 1. Design editoriale e grid system
+[94] Organizzazione contenuti con griglie: margini, colonne, righe, moduli. Coerenza visiva, leggibilità¹¹.
+[95] 2. Manifesti out-of-home
+[96] 6x3 m: strade principali
+[97] 12x3 m: autostrade
+[98] Pensiline: fermate bus
+[99] Digital DOOH: schermi dinamici
+[100] 3. Composizione advertising e Gestalt
+[101] Prossimità¹¹: elementi vicini = gruppo
+[102] Somiglianza: elementi simili = correlati
+[103] Chiusura: mente completa forme
+[104] Continuità¹¹: occhio segue linee
+[105] 4. Corporate identity e pieghevoli
+[106] Corporate identity: logo, colori, font, tone of voice. Pieghevoli: 2 ante, 3 ante, gatefold, z-fold.
+[107] LINGUAGGIO AUDIOVISIVO E FOTOGRAFIA
+[108] 1. Still life e luce in studio
+[109] Key light: principale
+[110] Fill light: riempimento
+[111] Backlight: controluce
+[112] Rim light: taglio
+[113] 2. Montaggio video con Premiere Pro
+[114] Importazione file
+[115] Editing timeline
+[116] Correzione colore
+[117] Audio e musica
+[118] Esportazione
+[119] 3. Grammatica dell'inquadratura
+[120] Piani: CLL, CL, FI, PA, PM, PP, PPP, Dettaglio
+[121] Angoli: normale, plongÉ¹e, contre-plongÉ¹e, olandese
+[122] Movimenti: panoramica, carrello, zoom, steadicam
+[123] 4. Ritmo visivo, stacchi, colonna sonora
+[124] Stacchi: cut, dissolve, fade, wipe, match cut, jump cut
+[125] Colonna sonora: musica, SFX, dialoghi, voiceover, silenzio
+[126] MATEMATICA
+[127] 1. Studio di funzione
+[128] Dominio
+[129] Intersezioni assi
+[130] Segno
+[131] Limiti e asintoti
+[132] Derivata prima (crescenza)
+[133] Derivata seconda (concavitÀ¹)
+[134] Grafico
+[135] 2. Sistemi esponenziali e logaritmici
+[136] Esponenziali: a^x = b. Logaritmici: log_a(x) = b. Proprietà¹¹: prodotto, quoziente, potenza, cambio base.
+[137] 3. Funzioni razionali
+[138] Razionali intere: polinomi, dominio R. Razionali fratte: P(x)/Q(x), dominio Q(x)≠0, asintoti verticali/orizzontali/obliqui.
+[139] 4. Funzioni esponenziali e logaritmiche
+[140] Tipo
+[141] Forma
+[142] Dominio
+[143] Asintoti
+[144] Esponenziale
+[145] a^x
+[146] R
+[147] y=0
+[148] Logaritmica
+[149] log_a(x)
+[150] x>0
+[151] x=0
+[152] INGLESE
+[153] 1. Oscar Wilde e l'esteticismo
+[154] Fine '800, "Art for Art's Sake". Wilde (1854-1900): Dorian Gray, Importance of Being Earnest. Temi: bellezza, dualismo, decadenza.
+[155] 2. Alan Turing e Enigma
+[156] Turing (1912-54): matematico, Bletchley Park, macchina Bombe per decifrare Enigma. Padre informatica, test di Turing.
+[157] 3. Charles Dickens
+[158] Dickens (1812-70): Oliver Twist, Christmas Carol, Great Expectations. Temi: povertà¹¹, rivoluzione industriale, critica sociale.
+[159] 4. Sistemi politici UK vs USA
+[160] Aspetto
+[161] UK
+[162] USA
+[163] Stato
+[164] Monarchia parlamentare
+[165] Repubblica federale
+[166] Capo
+[167] Re + PM
+[168] Presidente
+[169] Parlamento
+[170] Commons + Lords
+[171] House + Senate
+[172] Costituzione
+[173] Non scritta
+[174] Scritta (1787)
